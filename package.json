@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-2.0",
+  "version": "1.0.0",
+  "description": "This will be a functoining discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "axios": "^0.27.2",
+    "discord.js": "^14.4.0",
+    "dotenv": "^16.0.2",
+    "node-fetch": "^3.2.10"
+  }
+}
